@@ -1,0 +1,21 @@
+{
+  "name": "npm-class",
+  "version": "1.0.0",
+  "description": "class about npm",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "angel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.9"
+  },
+  "devDependencies": {
+    "json-web-token": "^3.2.0"
+  }
+}
